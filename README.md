@@ -117,15 +117,15 @@ This project demonstrates the practical application of:
 
 ---
 
+---
+
 ## 👥 Team Members
 
-<p align="left">
-  <b>Ahmed Gaber Abdeldayem Abdullah</b><br>
-  <b>Amr Gamal Elsayed Abdelaziz</b><br>
-  <b>Nada Yasser Mahmoud Mohammed</b><br>
-  <b>Makarious Zaytoun Shawky Wahba</b><br>
-  <b>Berta Emil Iskandar Sedhom</b>
-</p>
+- Ahmed Gaber Abdeldayem Abdullah
+- Amr Gamal Elsayed Abdelaziz
+- Nada Yasser Mahmoud Mohammed
+- Makarious Zaytoun Shawky Wahba
+- Berta Emil Iskandar Sedhom
 
 ---
 
