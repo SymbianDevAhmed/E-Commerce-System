@@ -122,9 +122,3 @@ This project demonstrates the practical application of:
 - Nada Yasser Mahmoud Mohammed
 - Makarious Zaytoun Shawky Wahba
 - Berta Emil Iskandar Sedhom
-
----
-
-<p align="center">
-  <i>Developed as a Java diploma assignment.</i>
-</p>
