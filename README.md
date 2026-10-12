@@ -115,10 +115,6 @@ This project demonstrates the practical application of:
 
 ---
 
----
-
----
-
 ## 👥 Team Members
 
 - Ahmed Gaber Abdeldayem Abdullah
