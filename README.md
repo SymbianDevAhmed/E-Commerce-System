@@ -115,12 +115,16 @@ This project demonstrates the practical application of:
 
 ---
 
+---
+
 ## 👥 Team Members
 
-<p align="center">
-  <b>Ahmed Gaber</b><br>
-  <b>Amr Gamal</b><br>
-  <b>Nada Yasser</b>
+<p align="left">
+  <b>Ahmed Gaber Abdeldayem Abdullah</b><br>
+  <b>Amr Gamal Elsayed Abdelaziz</b><br>
+  <b>Nada Yasser Mahmoud Mohammed</b><br>
+  <b>Makarious Zaytoun Shawky Wahba</b><br>
+  <b>Berta Emil Iskandar Sedhom</b>
 </p>
 
 ---
